@@ -1,5 +1,5 @@
 let pokemonList = [charizard, oddish, jigglypuff]
-let charizrd = {
+let charizard = {
     name: "Charizard", height: 5.07, type: ["fire", "flying"]
 }
 let oddish = {
